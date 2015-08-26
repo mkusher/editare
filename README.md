@@ -1,0 +1,2 @@
+# Editare
+Next generation editor
